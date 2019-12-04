@@ -1,6 +1,6 @@
 ;;;; package.lisp
 
 (defpackage #:aoc-2019
-  (:use #:cl)
+  (:use #:cl #:uiop)
   (:export
    #:print))
